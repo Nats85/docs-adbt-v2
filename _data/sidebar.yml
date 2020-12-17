@@ -1,0 +1,9 @@
+docs:
+  - title:  Requisitos
+    chapter: "requisitos"
+  - title: Instalación
+    chapter: "instalacion"
+  - title: Módulos de Aranda Database Tools
+    chapter: "modulos"
+  - title: Solución de problemas
+    chapter: "problemas"
